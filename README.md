@@ -1,2 +1,4 @@
-footballcoin
-============
+
+FootballCoin - FBC
+
+

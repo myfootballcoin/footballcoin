@@ -1,0 +1,9 @@
+Building FootballCoin
+
+See doc/readme-qt.rst for instructions on building FootballCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of FootballCoin.
+
+See doc/build-*.txt for instructions on building FootballCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of FootballCoin.
